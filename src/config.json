@@ -1,0 +1,6 @@
+{
+	"port": 8080,
+	"bodyLimit": "100kb",
+	"corsHeaders": ["Link"],
+	"server": "172.16.18.99"
+}
